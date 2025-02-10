@@ -2,8 +2,8 @@
 
 This repository contains curated code snippets and projects to showcase my data science and computational skills.
 
-## [Creating US NON-PROFIT REGULATIONS dataset]()
-I performed intergration of two datasets containing information on nonprofit regulations: dataset containing text of state regulatory statutes with Urban Institute's Legal Compendium (https://www.urban.org/policy-centers/center-nonprofits-and-philanthropy/projects/regulation-charitable-sector-project). [Python; Pandas]
+## [Creating US NON-PROFIT REGULATIONS dataset](https://github.com/anubhachopra/code-ac/tree/67cbd4637f018401f1078227e4c496c6e3bb1b75/code-python)
+I performed intergration of two datasets containing information on nonprofit regulations: dataset containing text of state regulatory statutes with Urban Institute's Legal Compendium (https://www.urban.org/policy-centers/center-nonprofits-and-philanthropy/projects/regulation-charitable-sector-project). [Python]
 
 ## [Creating US NON-PROFIT TAX RETURN dataset]()
 
