@@ -11,7 +11,7 @@ I performed intergration of two datasets containing information on nonprofit reg
 
 ## [Staggered DiD]()
 
-## [Impact of Minimum Wages]()
+## [Minimum Wage Laws and Labor Market Outcomes through a Gendered Lens](https://github.com/anubhachopra/code-ac/tree/17c8120d66226ab69851f6b7139e9d98db41311a/code-stata)
 
-[Stata; Spatial RDD]
+[Stata]
 
