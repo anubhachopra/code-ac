@@ -1,6 +1,6 @@
 # code-ac
 
-This repository contains curated code snippets and projects to showcase my data science and computational skills.
+This repository contains code snippets from some of my projects.
 
 1. [Creating US NON-PROFIT REGULATIONS dataset](https://github.com/anubhachopra/code-ac/tree/67cbd4637f018401f1078227e4c496c6e3bb1b75/code-python)
 [Python] A public dataset on US non-profit regulations by integrating digitized US non-profit law text data with Urban Institute's Legal Compendium using Python libraries.
